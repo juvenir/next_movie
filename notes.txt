@@ -1,0 +1,3 @@
+STATIC GENERATION (executa apenas 1x no build)
+SERVER SIDE RENDERING (executa a cada requisição)
+CLIENT SIDE RENDERING (executa a cada requisição)
